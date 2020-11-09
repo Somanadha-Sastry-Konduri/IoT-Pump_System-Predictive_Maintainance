@@ -1,0 +1,3 @@
+**Soma_Understanding_the_data**
+* Created by Somanadha Sastry 
+* This is a google colab notebook created for basic understanding of data
