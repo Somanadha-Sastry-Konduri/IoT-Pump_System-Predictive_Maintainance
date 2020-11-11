@@ -1,3 +1,4 @@
 **Soma_Understanding_the_data**
 * Created by Somanadha Sastry 
-* This is a google colab notebook created for basic understanding of data
+* This is a google colab notebook created for basic understanding of data (Uni-variate analysis => statistically)
+* These statistical uni-variate analysis results were embedded in the for of a google sheet
